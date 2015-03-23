@@ -6,6 +6,7 @@
     "blazy": "*",
     "bootstrap": "git@github.com:twbs/bootstrap.git#master",
     "diazo-plone": "git@github.com:ade25/diazo-plone.git#master",
+    "lanyon": "git@github.com:poole/lanyon.git",
     "font-awesome": "4.2.0",
     "hideShowPassword": "~2.0.3",
     "holderjs": "~2.1.0",
