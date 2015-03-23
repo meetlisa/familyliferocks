@@ -10,7 +10,7 @@ relative_permalinks: true
 title:               FamilyLife.Rocks
 tagline:             'A family blog'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/meet_lisa" target="_blank">@meet_lisa</a> & <a href="https://twitter.com/potzenheimer" target="_blank">@potzenheimer</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://familylife.rocks
 baseurl:             /
 paginate:            5
 
