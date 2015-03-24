@@ -16,9 +16,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              FamilyLifeRocks
+  url:               https://twitter.com/familyrocksblog
+  email:             service@familylife.rocks
 
 # Server
 destination:      ./_site

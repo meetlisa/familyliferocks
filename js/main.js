@@ -1,7 +1,19 @@
-/*jslint white:false, onevar:true, undef:true, nomen:true, eqeqeq:true, plusplus:true, bitwise:true, regexp:true, newcap:true, immed:true, strict:false, browser:true */
-/*global jQuery:false, document:false */
 'use strict';
+(function(document) {
+  var toggle = document.querySelector('.sidebar-toggle');
+  var sidebar = document.querySelector('#sidebar');
+  var checkbox = document.querySelector('#sidebar-checkbox');
 
+  document.addEventListener('click', function(e) {
+    var target = e.target;
+
+    if(!checkbox.checked ||
+       sidebar.contains(target) ||
+       (target === checkbox || target === toggle)) return;
+
+    checkbox.checked = false;
+  }, false);
+})(document);
 (function ($) {
   $(document).ready(function () {
     if ($('body').hasClass('lt-ie7')) {return; }

@@ -25,8 +25,11 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script>
+    {% include javascript.html %}
+    <div class="app-js-slot">
+        {% include webfonts.html %}
+    </div>
+    <!--<script>
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -42,6 +45,6 @@
           checkbox.checked = false;
         }, false);
       })(document);
-    </script>
+    </script>-->
   </body>
 </html>

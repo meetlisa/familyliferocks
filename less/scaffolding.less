@@ -8,10 +8,13 @@ html {
     @media (min-width: @screen-sm-min) {
         font-size: ceil((@font-size-root + 2));
     }
+    @media (min-width: @screen-md-min) {
+        font-size: ceil((@font-size-root + 4));
+    }
 }
 
 body {
-    background: @gray-lighter;
+    background: #fff;
     &.template-theming-controlpanel .row {
         // Fix theming control panel
         margin: 0 @line-height-computed;

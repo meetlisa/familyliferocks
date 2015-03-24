@@ -32,11 +32,6 @@ module.exports = function (grunt) {
                 src: [
                     'bower_components/jquery/dist/jquery.js',
                     'bower_components/modernizr/modernizr.js',
-                    'bower_components/bootstrap/js/transition.js',
-                    'bower_components/bootstrap/js/collapse.js',
-                    'bower_components/bootstrap/js/dropdown.js',
-                    'bower_components/holderjs/holder.js',
-                    'bower_components/hideShowPassword/hideShowPassword.js',
                     'bower_components/blazy/blazy.js',
                     'js/main.js'
                 ],
@@ -46,10 +41,6 @@ module.exports = function (grunt) {
                 src: [
                     'bower_components/jquery/dist/jquery.js',
                     'bower_components/modernizr/modernizr.js',
-                    'bower_components/bootstrap/js/transition.js',
-                    'bower_components/bootstrap/js/collapse.js',
-                    'bower_components/bootstrap/js/dropdown.js',
-                    'bower_components/hideShowPassword/hideShowPassword.js',
                     'bower_components/blazy/blazy.js',
                     'js/main.js'
                 ],
@@ -135,8 +126,8 @@ module.exports = function (grunt) {
             staticassets: {
                 expand: true,
                 flatten: true,
-                src: ['public/*'],
-                dest: '<%= config.dist %>/public/'
+                src: ['public/css/*'],
+                dest: '<%= config.dist %>/public/css/'
             },
             fontawesome: {
                 expand: true,

@@ -2,33 +2,32 @@
 // Brandbar
 // -----------------------------------------
 
-.app-brandbar {
-    padding: @line-height-computed;
+.masthead {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #eee;
+}
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title a {
+  color: #505050;
+}
+.masthead-title small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
 }
 
-.app-brandbar-content {
-  .container();
-}
-
-// Make a gridrow
-.app-brand {
-  .make-row();
-}
-
-// The actual brandname
-.app-brand-title {
-  .make-md-column(4);
-  .app-brandname {
-    .h3();
-    .app-brandname-logo {
-      .img-responsive();
-    }
+@media (max-width: 48em) {
+  .masthead-title {
+    text-align: center;
   }
-}
-// Sitewide claim
-.app-brand-claim {
-  .make-md-column(8);
-  .app-claim {
-    .h5();
+  .masthead-title small {
+    display: none;
   }
 }
