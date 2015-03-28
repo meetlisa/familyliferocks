@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:               FamilyLife.Rocks
-tagline:             'A family blog'
-description:         'A blog aboutparenting in Germany. Made by <a href="https://twitter.com/meet_lisa" target="_blank">@meet_lisa</a> & <a href="https://twitter.com/potzenheimer" target="_blank">@potzenheimer</a>.'
+tagline:             'parenting in germany'
+description:         'A blog about parenting in Germany. Made by <a href="https://twitter.com/meet_lisa" target="_blank">@meet_lisa</a> & <a href="https://twitter.com/potzenheimer" target="_blank">@potzenheimer</a>.'
 url:                 http://familylife.rocks
 baseurl:             /
 paginate:            5
