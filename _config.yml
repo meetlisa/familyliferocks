@@ -31,7 +31,7 @@ repo:             https://github.com/ade25/
 
 # prose.io editing setup
 prose:
-  rooturl: '_posts'
+#  rooturl: '_posts'
   siteurl: 'http://meetlisa.github.io'
   media: 'assets'
   ignore:
@@ -49,3 +49,24 @@ prose:
     - bower.json
     - index.html
     - package.json
+  metadata:
+    _drafts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Category"
+          placeholder: "Choose Category"
+          options:
+            - name: "Family Policy"
+              value: "family-policy"
+            - name: "Parenting"
+              value: "parenting"
