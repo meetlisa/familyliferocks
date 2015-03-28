@@ -1,7 +1,12 @@
-h1 Kind schiebt Sachen durch die Wohnung
+---
+published: false
+---
 
-Das Eltern-Mantra lautet: “Das ist nur eine Phase.” Auch wir sind wieder einmal an dem Punkt, an dem wir uns diesen Satz 
-etwa 37 mal pro Tag innerlich vorsagen. Der Grund ist: Unser Kind räumt die Wohnung um.
+## The kid is pushing things around
+
+> This is just a phase
+
+The matra of all parents. We have reached the point of no return again, when we start repeating our mantra approximately 37 times a day. The reason: our child is rearranging our apartment.
 
 Alles fing damit an, dass wir das Bett in seinem Kinderzimmer an eine andere Stelle geschoben haben. Einfach so, 
 um das mal auszuprobieren. Dafür muss man dann natürlich ein paar Sachen beiseite stellen, den Teppich verrutschen und mal 
