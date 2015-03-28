@@ -34,4 +34,4 @@ bisschen zu einfach klingen und ist etwas übertrieben, aber im Prinzip ist es s
 sich später selbst dafür oder dagegen zu entscheiden. Wenn er Untergrundkämpfer werden möchte und für die Unabhängigkeit
 kämpfen will, dann soll das für ihn möglich sien, ohne, dass seine Gesichtsdaten schon in jeder Datenbank gespeichert sind.
 
-Bild: Keine Idee
+Bild: Untergrundkämpfer
