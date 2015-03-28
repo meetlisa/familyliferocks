@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to familylife.rocks
-categories: parenting
+categories: Parenting
 ---
 
 We are Mama Lisa and Papa Christoph. Florentin is our son. He was born in August 2013. We are a family living in Germany. Is this something special? No. But for sure our life is different than family life in Canada, France or the Phillipines for example.
@@ -17,5 +17,3 @@ We are happy to have you with us on a short stretch of the way.
 All the best from Bavaria, Germany
 
 Lisa & Christoph
-
-Bild: vorhanden
