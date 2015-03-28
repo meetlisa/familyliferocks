@@ -8,10 +8,7 @@ published: false
 
 The matra of all parents. We have reached the point of no return again, when we start repeating our mantra approximately 37 times a day. The reason: our child is rearranging our apartment.
 
-Alles fing damit an, dass wir das Bett in seinem Kinderzimmer an eine andere Stelle geschoben haben. Einfach so, 
-um das mal auszuprobieren. Dafür muss man dann natürlich ein paar Sachen beiseite stellen, den Teppich verrutschen und mal 
-saugen… Jedenfalls hat ihm diese Räumerei gefallen. Es hat keine 3 Stunden gedauert, da hat er angefangen, im Rest der 
-Wohnung auch umzuräumen.
+It all began as we moved the bed in the children's room to a different spot, just to see how it would work out. During the process a couple of things needed to be set aside, the carpet shifted and the whole room vacuumed while at it...he seemed to enjoy the action. less than 3 hours later he began to rearrange the rest of our apartment.
 
 Wir haben so einen wunderschönen alten Holzfußboden aus Dielen. So einen Fußboden gibt es hier in vielen Wohnungen, weil die 
 Häuser in unserem Stadtviertel in Augsburg so alt sind. In den modernen Wohnungen gibt es meistens nur Laminat oder Parkett.
