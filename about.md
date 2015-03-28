@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hallo, we are Lisa and Christoph, Florentin's parent. We are living in Augsburg a midsized City in Bavaria, Germany. Florentin was born in August 2013 and is our only child to this date.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The articles in this blog will revolve around family life in Germany. We believe it is interesting to read how things are organized and work out in Germany. Therefore we are not posting so much for our friends, neighbours or family but also for people living in remote spots of the world planing their holidays in Germany or probably thinking about moving here permanently.
 
-There are currently two themes built on Poole:
+Our personal interests and sensitivities will stay on the sideline and we intent to focus on themes like the German family policy and its shortcomings or benefits. This may sound like complaining about first world problems but your know what...even this is somehow Germanic.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Currently both parents are working parttime and with 20 hours each the three of us manage to get by. Florentin has just started to go to daycare for 15 hours per week and we will see how this will pay off. This blog is one of the projects we will focus on in the newfound extra time.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Christoph has been self-employed as a programmer and developer since years. He will take care of the implementation details and try to fulfill Lisa's wishes concerning the copy and article she provides and the social media channels she manages. Lisa is currently working as a project manager for an agency in Augsburg.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+We are looking forward to a lively exchange and dialog with other parents from around the globe and send best regards from Augsburg, Bavaria.
 
 Thanks for reading!
