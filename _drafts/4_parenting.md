@@ -1,11 +1,11 @@
-h1 the parenting hashtag
+#the parenting hashtag
 
 Bei der Recherche für diesen Blog habe ich auf verschiedenen Social Media Plattfrmen nachgesehen, welche Einträge ich zum Thema
-#Parenting finde.
+Parenting finde.
 
 Einschub: Vielleicht kann der Pollo hier erklären, dass es dafür kein passendes deutsches Wort gibt.
 
-#Parenting on Pinterest
+##Parenting on Pinterest
 
 Ich hatte erwartet, dass sich auf Pinterest zu dem Hashtag Parenting vor allem Infografiken zu finden sind darüber, wie lange
 Kinder schlafen. Oder eben Bilder von besonders hübsch angerichtetem Essen. Stattdessen fonde ich strenge Regeln und Listen, an
@@ -15,7 +15,7 @@ streng und wenig positiv. Daumen runter!
 
 https://de.pinterest.com/search/pins/?rs=ac&len=2&q=parenting&term_meta[]=parenting|autocomplete|0
 
-#Parenting on Twitter
+##Parenting on Twitter
 
 Auf Twitter habe ich sehr schöne Posts mit wirklich rührenden Worten gefunden. Eines meiner liebsten Beispiel ist der Tweet von
 Everyday Parenting: "#Children give us the opportunity to learn #patience." (#Children give us the opportunity to learn #patience.)
@@ -23,7 +23,7 @@ Auf Twitter werde ich ale jetzt öfter mal nach Inspiration für unseren Blog gu
 
 https://twitter.com/hashtag/Parenting?src=hash
 
-#Parenting on Facebook
+##Parenting on Facebook
 
 Auf Facebook findet man ja wirklich alles mögliche. Das wusste ich schon. Hier war ich von der Vielfalt überrascht. Von ultra-
 religiösen Sinnsprüchen bis zu Buchtipps zum Thema Potty Training ist hier alles dabei. Das meiste hat mir nicht gefallen. Aber
@@ -31,7 +31,7 @@ mit Abstand der schlimmste Beitrag ist die Bastelanleitung für den Timeout-Chai
 
 https://www.facebook.com/hashtag/Parenting?fref=ts
 
-#Parenting on Tumblr
+##Parenting on Tumblr
 
 Meine große Kritik an Tumblr ist, dass es hier so wahnsinnig viele Kinderfotos zu sehen gibt. Und das ist natürlich auch bei
 dem Hashtag Parenting so. Ich finde es nicht gut, dass Leute hier die Fotos von ihren Kindern posten. Abgesehen davon, dass
