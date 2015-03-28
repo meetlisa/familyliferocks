@@ -1,7 +1,7 @@
 h1 the parenting hashtag
 
 Bei der Recherche für diesen Blog habe ich auf verschiedenen Social Media Plattfrmen nachgesehen, welche Einträge ich zum Thema
-#Parenting finde.
+Parenting finde.
 
 Einschub: Vielleicht kann der Pollo hier erklären, dass es dafür kein passendes deutsches Wort gibt.
 
