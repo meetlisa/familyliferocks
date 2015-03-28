@@ -7,7 +7,7 @@ Hallo, we are Lisa and Christoph, Florentin's parent. We are living in Augsburg 
 
 The articles in this blog will revolve around family life in Germany. We believe it is interesting to read how things are organized and work out in Germany. Therefore we are not posting so much for our friends, neighbours or family but also for people living in remote spots of the world planing their holidays in Germany or probably thinking about moving here permanently.
 
-Our personal interests and sensitivities will stay on the sideline and we intent to focus on themes like the German family policy and its shortcomings or benefits. This may sound like complaining about first world problems but your know what...even this is somehow Germanic.
+Our personal interests and sensitivities will stay on the sideline and we intent to focus on themes like the German family policy and its shortcomings or benefits. This may sound like complaining about first world problems but you know what...even this is somehow Germanic.
 
 Currently both parents are working parttime and with 20 hours each the three of us manage to get by. Florentin has just started to go to daycare for 15 hours per week and we will see how this will pay off. This blog is one of the projects we will focus on in the newfound extra time.
 
