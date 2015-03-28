@@ -31,7 +31,6 @@ repo:             https://github.com/ade25/
 
 # prose.io editing setup
 prose:
-#  rooturl: '_posts'
   siteurl: 'http://meetlisa.github.io'
   media: 'assets'
   ignore:
