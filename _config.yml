@@ -38,6 +38,11 @@ prose:
     - /_includes
     - /_layouts
     - 404.html
+    - .gitignore
+    - .editorconfig
+    - .bowerrc
+    - LICENSE
+    - config.json
     - Gruntfile.js
     - js
     - dist
