@@ -3,7 +3,7 @@ module.exports = function (grunt) {
     require('time-grunt')(grunt);
     require('jit-grunt')(grunt);
     var config = {
-            app: 'app',
+            assets: 'public',
             dev: '_site',
             dist: 'dist',
             diazoPrefix: '/++theme++<%= pkg.name %>.sitetheme'

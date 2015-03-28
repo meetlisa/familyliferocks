@@ -28,3 +28,24 @@ port:             9001
 # Custom vars
 current_version:  1.0.0
 repo:             https://github.com/ade25/
+
+# prose.io editing setup
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://meetlisa.github.io'
+  media: 'assets'
+  ignore:
+    - /_includes
+    - /_layouts
+    - 404.html
+    - Gruntfile.js
+    - js
+    - dist
+    - less
+    - Makefile
+    - README.md
+    - _config.yml
+    - atom.xml
+    - bower.json
+    - index.html
+    - package.json
