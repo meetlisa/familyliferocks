@@ -11,7 +11,7 @@ title:               FamilyLife.Rocks
 tagline:             'A family blog'
 description:         'A blog aboutparenting in Germany. Made by <a href="https://twitter.com/meet_lisa" target="_blank">@meet_lisa</a> & <a href="https://twitter.com/potzenheimer" target="_blank">@potzenheimer</a>.'
 url:                 http://familylife.rocks
-baseurl:             ../
+baseurl:             /
 paginate:            5
 
 # About/contact
