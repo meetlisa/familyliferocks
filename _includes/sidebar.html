@@ -27,7 +27,7 @@
 
     {% for category in site.categories %}
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/category/{{ category | last }}">
-        {{ category | last }}
+        {{ category | first }}
         <span class="badge">
           {{ category | last | size }}
         </span>
