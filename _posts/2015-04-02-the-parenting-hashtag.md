@@ -4,9 +4,11 @@ title: The parenting hashtag
 categories: Parenting
 ---
 
-During research for this blog I tried to observe different social media channels and plattforms for entries on the subject of parenting.
+<p class="lead">During research for this blog I tried to observe different social media channels and plattforms for entries on the subject of parenting.</p>
 
-> Heads up: since *parenting* translates into parenthood, education and upbringing at the same time it is hard to embrace for a native German speaker
+<p class="message">
+Heads up: since *parenting* translates into parenthood, education and upbringing at the same time it is hard to embrace for a native German speaker
+</p>
 
 ## Parenting on Pinterest
 
