@@ -41,7 +41,7 @@ My critisism for Tumblr mostly steams form the fact, that a high number of child
 
 I do not like people posting pictures of their children. And this is not only because I believe it unappropriate when thinking about the personal rights of these children but I also disagree with a lot of the pose. You have to be critical of a small girl depicted sleeping half-naked only wearing a diaper. right??
 
-![Disgusted Girl](http://giphy.com/gifs/disgusted-new-girl-JrrG2S26HOuf6)
+![Disgusted Girl](http://i.giphy.com/JrrG2S26HOuf6.gif)
 
 https://www.tumblr.com/search/parenting
 
