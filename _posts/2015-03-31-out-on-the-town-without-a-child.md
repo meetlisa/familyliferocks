@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: Out on the town without a child
+categories: Parenting
 ---
-
-# Out on the town without a child
 
 Me and my man are actually quite seasoned concert-goers. But although we never wanted to become the typical dull parents we had not been out for what seemed like ages. The pregnancy lead to a demanding baby, nursing, and sleep deprivation and afterwards fighting difficulties with falling to sleep made our child not the best candidate for babysitting.
 
