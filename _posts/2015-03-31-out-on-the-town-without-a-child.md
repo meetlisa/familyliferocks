@@ -10,7 +10,7 @@ After sleep consultation this problem has been solved and we drove to Munich for
 
 Wow! Driving with blasting speakers into civil twilight was already an adventure. I immediately was in a good mood flying over the half-empty autobahn and standing in line for admittance - how exciting! There were other grown-ups. Talk. Smoke. Kissing!
 
-But moving through the crowd was the greatest experience while feeling absolutely free. Free as in "not constantly looking down at the ground in search for a toddler". No supporting of a whining brat wriggling like an eel and Noone carrying a diaper bag or looking for a baby-care room.
+But moving through the crowd was the greatest experience while feeling absolutely free. Free as in "not constantly looking down at the ground in search for a toddler". No supporting of a whining brat wriggling like an eel and noone carrying a diaper bag or looking for a baby-care room.
 
 This all sounds nothing out of the ordinary, but for us it was awesome. Nothing more and nothing less. We meandered through the crowd and paused wherever we wanted. We danced, swayed, clapped and chanted. Freedom for 4 hours in a row can be lovely.
 
@@ -20,4 +20,4 @@ But of course we still have our favorite song ringing in our ears form last nigh
 
 Today we are all run down. Missing sleep makes working hard and the ringing in our ears just has not subsided yet. But never mind. We are still young and have no regrets.
 
-Visit [chuckraganmusic.com/](http://chuckraganmusic.com/)
+Visit [chuckraganmusic.com](http://chuckraganmusic.com/)
