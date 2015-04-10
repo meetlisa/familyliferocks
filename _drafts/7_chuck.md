@@ -16,9 +16,8 @@ This all sounds nothing out of the ordinary, but for us it was awesome. Nothing 
 
 But of course we still have our favorite song ringing in our ears form last nights show:
 
-Natürlich ist uns das absolute Lieblingslied von gestern auch als Ohrwurm hängen geblieben: YouTube embedd
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nj_dBdhMNx4?list=PL43F8ECCB09C276FF" frameborder="0" allowfullscreen></iframe>
 
-Heute sind wir beide fix und fertig. Schlafmangel macht die Arbeit schwer und das Fiepen im Ohr will auch nicht so richtig
-weggehen. Aber was soll’s. Wir sind jung und bereuen nichts… Oder so ähnlich.
+Today we are all run down. Missing sleep makes working hard and the ringing in our ears just has not subsided yet. But never mind. We are still young and have no regrets.
 
-Hier kommt ihr auf die Website von Chuck Ragan.
+Visit [chuckraganmusic.com/](http://chuckraganmusic.com/)
