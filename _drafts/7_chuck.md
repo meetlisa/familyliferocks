@@ -2,9 +2,9 @@
 published: false
 ---
 
-# Out on the town without the child
+# Out on the town without a child
 
-Me and my husband are actually quite seasoned concert-goers. But although we never wanted to become the typical dull parents we had not been out for what seemed like ages. The pregnancy lead to a demanding baby, nursing, and sleep deprivation and afterwards fighting difficulties with falling to sleep made our child not the best candidate for babysitting.
+Me and my man are actually quite seasoned concert-goers. But although we never wanted to become the typical dull parents we had not been out for what seemed like ages. The pregnancy lead to a demanding baby, nursing, and sleep deprivation and afterwards fighting difficulties with falling to sleep made our child not the best candidate for babysitting.
 
 After sleep consultation this problem has been solved and we drove to Munich for a concert last night.
 
