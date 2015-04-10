@@ -1,17 +1,22 @@
-#the parenting hashtag
+---
+published: false
+---
 
-Bei der Recherche für diesen Blog habe ich auf verschiedenen Social Media Plattfrmen nachgesehen, welche Einträge ich zum Thema
-Parenting finde.
+# The parenting hashtag
 
-Einschub: Vielleicht kann der Pollo hier erklären, dass es dafür kein passendes deutsches Wort gibt.
+During research for this blog I tried to observe different social media channels and plattforms for entries on the subject of parenting.
 
-##Parenting on Pinterest
+> Heads up: since *parenting* translates into parenthood, education and upbringing at the same time it is hard to embrace for a native German speaker
+
+## Parenting on Pinterest
 
 Ich hatte erwartet, dass sich auf Pinterest zu dem Hashtag Parenting vor allem Infografiken zu finden sind darüber, wie lange
 Kinder schlafen. Oder eben Bilder von besonders hübsch angerichtetem Essen. Stattdessen fonde ich strenge Regeln und Listen, an
 die sich alle Eltern halten sollen ("29 photos every parent MUST get of their baby", "10 Manners every Child SHOUD know").
 Außerdem geht es um Potty raining, Time Out, and how to teach your toddler to listen better. Für mich klingt das alles sehr
 streng und wenig positiv. Daumen runter!
+
+I would have expected to find info graphics on sleep habits of children while searching for the hashtag **#parenting**. Or just pictures of delicately arranged food. But instead there are strict rules in todo lists parents have to restain themselves to, like "29 photos every parent MUST get of their baby" or "10 Manners every Child SHOULD know". Further themes revolve around potty training, time out, and how to teach a toddler to pay more attention. 
 
 https://de.pinterest.com/search/pins/?rs=ac&len=2&q=parenting&term_meta[]=parenting|autocomplete|0
 
