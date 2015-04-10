@@ -1,24 +1,20 @@
+---
+published: false
+---
+
 # Out on the town without the child
 
-Eigentlich sind mein Mann und ich routinierte Konzertgänger. Aber obwohl wir nie diese typischen langweiligen Eltern werden
-wollen, sind wir seit Ewigkeiten nicht mehr ausgegangen. Zuerst war da die Schwangerschaft, dann das Baby, das Stillen und
-der Schlafmangel. Danach hatten wir noch mit so gravierenden Einschlafproblemen bei unserem Kind zu kämpfen, dass niemand
-Lust hatte, abends bei uns Babysitter zu sein.
+Me and my husband are actually quite seasoned concert-goers. But although we never wanted to become the typical dull parents we had not been out for what seemed like ages. The pregnancy lead to a demanding baby, nursing, and sleep deprivation and afterwards fighting difficulties with falling to sleep made our child not the best candidate for babysitting.
 
-Doch nach einem Besuch bei der Schlafberatung hat sich dieses Problem nun auch gelöst und wir konnten gestern Abend in
-München auf ein Konzert gehen.
+After sleep consultation this problem has been solved and we drove to Munich for a concert last night.
 
-Wow! Schon allein die Autofahrt mit lauter Musik in der Dämmerung war ein Erlebnis. Ich hatte sofort gute Laune, als wir
-auf die fast leere Autobahn aufgefahren sind. Dann das Schlange stehen vor dem Einlass – wie aufregend! Da sind andere
-erwachsene Menschen. Und die reden! Und rauchen! Und küssen sich!
+Wow! Driving with blasting speakers into civil twilight was already an adventure. I immediately was in a good mood flying over the half-empty autobahn and standing in line for admittance - how exciting! There were other grown-ups. Talk. Smoke. Kissing!
 
-Doch das größte Erlebnis war es, sich in einer Menschenmenge zu bewegen, und dabei völlig frei zu sein. Mit frei meine ich,
-dass wir nicht ständig nach unten sehen und unser Kind suchen mussten. Wir hatten keinen quengeligen Balg auf dem Arm, der
-sich in alle Richtungen windet. Niemand musste eine Wickeltasche tragen und nach einem Wickeltisch Ausschau halten.
+But moving through the crowd was the greatest experience while feeling absolutely free. Free as in "not constantly looking down at the ground in search for a toddler". No supporting of a whining brat wriggling like an eel and Noone carrying a diaper bag or looking for a baby-care room.
 
-Das klingt alles schrecklich banal, aber für uns war es der Wahnsinn. Man kann es nicht anders sagen. Wir haben uns durch
-die Menge geschlängelt und sind immer dort stehen geblieben, wo es uns gerade gefiel. Wir sind rumgehüpft und haben
-geklatscht und mitgesungen. Freiheit für 4 Stunden kann wirklich herrlich sein.
+This all sounds nothing out of the ordinary, but for us it was awesome. Nothing more and nothing less. We meandered through the crowd and paused wherever we wanted. We danced, swayed, clapped and chanted. Freedom for 4 hours in a row can be lovely.
+
+But of course we still have our favorite song ringing in our ears form last nights show:
 
 Natürlich ist uns das absolute Lieblingslied von gestern auch als Ohrwurm hängen geblieben: YouTube embedd
 
