@@ -164,7 +164,7 @@ module.exports = function (grunt) {
                         expand: true,
                         cwd: 'assets/img',
                         src: ['**/*.png'],
-                        dest: '<%= config.dist %>/assets/img/',
+                        dest: '<%= config.assets %>/assets/img/',
                         ext: '.png'
                     }]
             },
@@ -174,7 +174,7 @@ module.exports = function (grunt) {
                         expand: true,
                         cwd: 'assets/img/',
                         src: ['**/*.jpg'],
-                        dest: '<%= config.dist %>/assets/img/',
+                        dest: '<%= config.assets %>/assets/img/',
                         ext: '.jpg'
                     }]
             }
@@ -185,7 +185,7 @@ module.exports = function (grunt) {
                         expand: true,
                         cwd: 'assets/img/',
                         src: '{,*/}*.svg',
-                        dest: '<%= config.dist %>/assets/img/'
+                        dest: '<%= config.assets %>/assets/img/'
                     }]
             }
         },
