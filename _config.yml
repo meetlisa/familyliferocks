@@ -32,7 +32,7 @@ repo:             https://github.com/ade25/
 # prose.io editing setup
 prose:
   siteurl: 'http://meetlisa.github.io'
-  media: '/assets/img'
+  media: 'assets/img'
   ignore:
     - /_includes
     - /_layouts
