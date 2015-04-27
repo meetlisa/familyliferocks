@@ -7,7 +7,7 @@ published: true
 
 We are Mama Lisa and Papa Christoph. Florentin is our son. He was born in August 2013. We are a family living in Germany. Is this something special? No. But for sure our life is different than family life in Canada, France or the Phillipines for example.
 
-![family life rocks logo](/_posts/Logo.JPG)
+![family life rocks logo](/assets/img/logo.jpg)
 
 We want to show you how we organize and manage our daily life and how we deal with each other.
 

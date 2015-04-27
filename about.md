@@ -4,7 +4,7 @@ title: About
 published: true
 ---
 
-![Lisa & Christoph about parenting in germany](/welcome.JPG)
+![Lisa & Christoph about parenting in germany](/assets/img/welcome.JPG)
 
 Hallo, we are Lisa and Christoph, Florentin's parent. We are living in Augsburg a midsized City in Bavaria, Germany. Florentin was born in August 2013 and is our only child to this date.
 
