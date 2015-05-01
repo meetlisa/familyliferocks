@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The parenting hashtag
-categories: Parenting
+categories: parenting
 ---
 
 <p class="lead">During research for this blog I tried to observe different social media channels and plattforms for entries on the subject of parenting.</p>
