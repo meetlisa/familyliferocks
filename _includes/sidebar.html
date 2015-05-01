@@ -25,11 +25,12 @@
       {% endif %}
     {% endfor %}
 
-    {% for category in site.categories %}
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#{{ category | first }}-ref">
-        {{ category | first }}
-      </a>
-    {% endfor %}
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories">
+        Parenting
+    </a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#family-policy-ref">
+        Family policy
+    </a>
 
     <span class="sidebar-nav-item">Currently v{{ site.current_version }}</span>
   </nav>
