@@ -14,7 +14,7 @@ We have a beautiful ancient boarded floor. A wooden floor is found in a lot of a
 
 This does not sound so much like a problem? Well if you happen to stumble over your coffe table, need to go looking for your child underneath the carpet or discover the dustbin somewhere unexpected this can get on your nerves pretty quickly.
 
-This paying tag continued for almost a week by now and I am beginning to wonder how long it will last in the end. YOu can hardly prohibit the movement of moving pieces and there is not enough space to hide away all the carpets, dustbins, and so on until this phase is over. And since most furniture has its place in the room for a reason I do not want to rearrange them anyway.
+This paying tag continued for almost a month by now and I am beginning to wonder how long it will last in the end. You can hardly prohibit the movement of moving pieces and there is not enough space to hide away all the carpets, dustbins, and so on until this phase is over. And since most furniture has its place in the room for a reason I do not want to rearrange them anyway.
 
 Currently our line of attack consists of being fulsome in one's praise of the fact that something has been put back to its original position. While our boy moves things around we mostly try to ignore the action as we do not want it to become more thrilling than necessary. But does not work out all that well. It is admittedly funny enough to watch mum go looling for the dustbin approximately 8 times a day and putting it back in place.
 
