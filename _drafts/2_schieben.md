@@ -10,32 +10,19 @@ The matra of all parents. We have reached the point of no return again, when we 
 
 It all began as we moved the bed in the children's room to a different spot, just to see how it would work out. During the process a couple of things needed to be set aside, the carpet shifted and the whole room vacuumed while at it...he seemed to enjoy the action. less than 3 hours later he began to rearrange the rest of our apartment.
 
-Wir haben so einen wunderschönen alten Holzfußboden aus Dielen. So einen Fußboden gibt es hier in vielen Wohnungen, weil die 
-Häuser in unserem Stadtviertel in Augsburg so alt sind. In den modernen Wohnungen gibt es meistens nur Laminat oder Parkett.
-Um diesen Fußboden zu schonen, kleben an jedem Möbelstück unten Filzgleiter aus dem Baumarkt dran. Das führt dazu, dass sich 
-die meisten Sachen recht gut bewegen lassen.
+We have a beautiful ancient boarded floor. A wooden floor is found in a lot of apartments around here since the houses in our neighborhood in Augsburg are really old. The modern apartments mostly have laminate floors. Trying to protect the parquet we attached felt pads from the local hardware store to every piece of furniture. But this makes it pretty easy to move around as well.
 
-Ihr denkt, dass das ja wohl nicht so schlimm sein kann? Doch: Wenn man drei mal am Tag über den eigenen Couchtisch stolpert, 
-das Kind unter dem Teppich suchen muss oder den Abfalleimer nicht findet, dann nervt das ziemlich schnell.
+This does not sound so much like a problem? Well if you happen to stumble over your coffe table, need to go looking for your child underneath the carpet or discover the dustbin somewhere unexpected this can get on your nerves pretty quickly.
 
-Seit einer Woche geht dieses Bäumchen-Wechsel-Dich-Spiel nun schon. Und ich frage mich, wie lange es noch andauert. Man kann 
-das herumschieben schlecht verbieten. Hier fehlt einfach der Platz, an den man Mülleimer, Kindermöbel und Teppiche retten 
-könnte  und eigentlich will ich das auch nicht. Schließlich stehen die meisten Möbel ja da, weil man sie aus einem bestimmten 
-Grund an genau dieser Stelle braucht.
+This paying tag continued for almost a week by now and I am beginning to wonder how long it will last in the end. YOu can hardly prohibit the movement of moving pieces and there is not enough space to hide away all the carpets, dustbins, and so on until this phase is over. And since most furniture has its place in the room for a reason I do not want to rearrange them anyway.
 
-Die Taktik ist im Moment die, dass wir ihn loben, wenn er etwas wieder aufräumt und an die richtige Stelle stellt. Während 
-er etwas herumschiebt, ignorieren wir das weitestgehend, um die ganze Sache für ihn nicht noch spannender zu machen. So 
-richtig funktioniert das aber nicht. Ist ja auch irgendwie lustig, Mama dabei zu beobachten, wie sie die Mülleimer acht mal 
-am Tag wieder auf ihren Platz trägt.
+Currently our line of attack consists of being fulsome in one's praise of the fact that something has been put back to its original position. While our boy moves things around we mostly try to ignore the action as we do not want it to become more thrilling than necessary. But does not work out all that well. It is admittedly funny enough to watch mum go looling for the dustbin approximately 8 times a day and putting it back in place.
 
-Ach ja, ich habe noch gar nichts zum Thema Radius erzählt. Wir reden hier nicht von ein oder zwei Metern. Das Kind kann 
-mittlerweile schon alleine (mit Hilfe eines Kinderstuhls) Türen aufmachen. Auch Türschwellen sind kein Problem. So stand 
-der Mülleimer nun schon vor der Wohnungstür, der Eimer für den Grünen Punkt fand sich plötzlich im Büro wieder und die 
-Kinderstühle sind vom Kinderzimmer unter den Küchentisch gewandert.
+By the way: we have not talked about the cruising radius yet. We are not referring to circle of 2 meters. Our child is able to open doors (with the help of a child's chair) and tresholds are no barriers at all. The waste bin was already discovered blocking the apartment door, the bin for recycling materials was found in the office and the children's chairs underneath the kitchen table.
 
 Kann mir einer sagen, was die tiefere Bedeutung dieser seltsamen Angewohnheit ist? Florentin ist nun knapp 19 Monate alt. 
 Das Buch “Oje ich wachse” endet bei 16 Monaten. Hier finden wir also keinen Hinweis mehr. Im Internet finde ich auf einigen 
 Ratgeberseiten den Hinweis, dass dieses Verhalten für das Alter typisch ist. Da steht aber nic dabei, warum die Kinder das 
 machen und – viel wichtiger – wie lange… Ich geh dann mal aufräumen.
 
-Bild: Vorhanden
+Can someone tell, what the deeper meaning behind this strange little habit? Florentin is now 19 months old and some resources ppoint at this behavior as characteristic for children of his age. But no resource mentions why this behavoir is developed and how long it will prevail. Time to clean up the mess. Excuse me.
