@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to familylife.rocks
-categories: parenting
+categories: Parenting
 published: true
 ---
 
