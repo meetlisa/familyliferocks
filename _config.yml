@@ -71,6 +71,6 @@ prose:
           placeholder: "Choose Category"
           options:
             - name: "Family Policy"
-              value: "family-policy"
+              value: "Family-policy"
             - name: "Parenting"
-              value: "parenting"
+              value: "Parenting"
