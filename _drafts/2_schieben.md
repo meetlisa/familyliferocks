@@ -20,9 +20,4 @@ Currently our line of attack consists of being fulsome in one's praise of the fa
 
 By the way: we have not talked about the cruising radius yet. We are not referring to circle of 2 meters. Our child is able to open doors (with the help of a child's chair) and tresholds are no barriers at all. The waste bin was already discovered blocking the apartment door, the bin for recycling materials was found in the office and the children's chairs underneath the kitchen table.
 
-Kann mir einer sagen, was die tiefere Bedeutung dieser seltsamen Angewohnheit ist? Florentin ist nun knapp 19 Monate alt. 
-Das Buch “Oje ich wachse” endet bei 16 Monaten. Hier finden wir also keinen Hinweis mehr. Im Internet finde ich auf einigen 
-Ratgeberseiten den Hinweis, dass dieses Verhalten für das Alter typisch ist. Da steht aber nic dabei, warum die Kinder das 
-machen und – viel wichtiger – wie lange… Ich geh dann mal aufräumen.
-
 Can someone tell, what the deeper meaning behind this strange little habit? Florentin is now 19 months old and some resources ppoint at this behavior as characteristic for children of his age. But no resource mentions why this behavoir is developed and how long it will prevail. Time to clean up the mess. Excuse me.
