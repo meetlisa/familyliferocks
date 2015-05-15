@@ -5,9 +5,10 @@ categories: Parenting
 published: true
 ---
 
+
 > This is just a phase
 
-The matra of all parents. We have reached the point of no return again, when we start repeating our mantra approximately 37 times a day. The reason: our child is rearranging our apartment.
+The mantra of all parents. We have reached the point of no return again, whenever we start repeating our mantra approximately 37 times a day. The reason: our child is rearranging our apartment.
 
 It all began as we moved the bed in the children's room to a different spot, just to see how it would work out. During the process a couple of things needed to be set aside, the carpet shifted and the whole room vacuumed while at it...he seemed to enjoy the action. less than 3 hours later he began to rearrange the rest of our apartment.
 
