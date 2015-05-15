@@ -1,8 +1,9 @@
 ---
-published: false
+layout: post
+title: The kid is pushing things around
+categories: Parenting
+published: true
 ---
-
-## The kid is pushing things around
 
 > This is just a phase
 
