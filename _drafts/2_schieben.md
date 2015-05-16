@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ## The kid is pushing things around
 
 > This is just a phase
@@ -9,6 +10,8 @@ published: false
 The matra of all parents. We have reached the point of no return again, when we start repeating our mantra approximately 37 times a day. The reason: our child is rearranging our apartment.
 
 It all began as we moved the bed in the children's room to a different spot, just to see how it would work out. During the process a couple of things needed to be set aside, the carpet shifted and the whole room vacuumed while at it...he seemed to enjoy the action. less than 3 hours later he began to rearrange the rest of our apartment.
+
+![felt pads]({{site.baseurl}}/assets/img/Filzgleiter1.JPG)
 
 We have a beautiful ancient boarded floor. A wooden floor is found in a lot of apartments around here since the houses in our neighborhood in Augsburg are really old. The modern apartments mostly have laminate floors. Trying to protect the parquet we attached felt pads from the local hardware store to every piece of furniture. But this makes it pretty easy to move around as well.
 
