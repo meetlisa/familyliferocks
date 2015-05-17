@@ -7,7 +7,7 @@ published: true
 
 
 
-Sommer is here and we are finally riding the bicycle again. Therefore I need storage space on my bike since you never know which unwieldy toy is going to
+Summer is here and we are finally riding the bicycle again. Therefore I need storage space on my bike since you never know which unwieldy toy is going to
 be the beloved one for my child at the moment. In the evenings he currently huddles up to a little wooden excavator...
 
 Also always accompanying our excursions: diapers and baby wipes, spare clothes, corn waffles, and a drink. This does not sound like much but adds up to quiet a package. And all of this only to spend a couple of hours on the playground. But this is the way it is when you are a mother and the times of carrying a clutch bag on your shoulder are definetly over.
@@ -32,7 +32,6 @@ The recommended rack was mounted to the shaft of the rear wheel corresponding to
 
 1. child and bike are very heavy indeed
 2. the bike has a solid stand since the rack has been attached to the ideal position
-
 
 ## A bicycle with a child is not automatically a cargo-carrying bike
 
