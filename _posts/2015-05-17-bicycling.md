@@ -28,10 +28,6 @@ My husband and me are surely especially focused on safety for different reasons 
 
 A lot of parents have a sand resembling a fork. But I have been discouraged from using it for the fact that you are not supposed to expand or collapse it under load. Therefore you would have to lift up the bike including the seated child and luggage and support the weight with one arm to actually move the rack. Even the most motivated biker will not go through this for an extended stretch of time and therefore the fork will sooner or later need to be replaced due to the extra strain.
 
-An mein Rad wurde nun also ein Ständer montiert, der an der hinteren Radachse angebracht wurde. Das passt zum Schwerpunkt 
-des Kindes, wenn es im Kinderfahrradsitz sitzt. In den letzten Monaten konnte ich dieses System ausprobieren und muss sagen, 
-dass die Beratung sehr zutreffend ist.
-
 The recommended rack was mounted to the shaft of the rear wheel corresponding to the focal point where the child is seated. I had a change to test this setup for a couple of months and have to state that I am very pleased with the recommendation.
 
 1. child and bike are very heavy indeed
