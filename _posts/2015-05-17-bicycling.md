@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Sommer is here and we are finally riding the bicycle again. Therefore I need storage space on my bike since you never know which unwieldy toy is going to
 be the beloved one for my child at the moment. In the evenings he currently huddles up to a little wooden excavator...
 
@@ -19,7 +20,7 @@ But there is always one problem: how do I move all our stuff to the playground s
 
 I have voted for an infant seat mounted above the bicycle rack. This seemed to be the most practical solution. This way the seat is also slightly spring-suspended. I presume that this is somewhat healthier than dragging children around in a trailer. I always think that children are given a good shake at each curb the trailer must cross. But since all products for children have to undergo strict quality assurance tests and carry seals of approval this is probably only my imagination.
 
-![The bike]({{site.baseurl}}/assets/img/bicyle.jpg)
+![The bike](/assets/img/bicyle.jpg)
 
 ## The bike
 
