@@ -42,9 +42,4 @@ The idea of using saddle-bags was destroyed by the placement of the fenders of t
 
 The bicycle dealer suggested a handlebar basket but even this solution has a constraint: you are not allowed to carry more than 5 kilogramm of cargo to prevent the risk of making the vehicle unstable and unbalanced. This would be a source of danger on its own.
 
-Ich werde mir so einen Fahrradkorb ans Rad bauen lassen, einfach weil ich keine andere Wahl habe. Zum Einkaufen ist so 
-ein Korb dann allerdings nicht geeignet. Da heißt es weiterhin: Kind in den Kinderwagen packen und das Netz am Fahrgestell 
-vollladen. So ein Kinderwagen ist dann zwar auch nahezu manövrierunfähig, aber mit dem ist man ja auch in wesentlich 
-niedrigeren Geschwindigkeiten unterwegs.
-
 I will have a bicycle basket mounted to my bike since it seems the only choice, although is might be unsuited for shopping. We will still have to use the stroller and use the appended basket for our purchases. A leaded stroller is hard to manouver as well, but you use it at a much lower speed.
