@@ -2,7 +2,9 @@
 layout: post
 title: Bicycling with a child
 categories: Parenting
+published: true
 ---
+
 
 Sommer is here and we are finally riding the bicycle again. Therefore I need storage space on my bike since you never know which unwieldy toy is going to
 be the beloved one for my child at the moment. In the evenings he currently huddles up to a little wooden excavator...
@@ -17,7 +19,9 @@ But there is always one problem: how do I move all our stuff to the playground s
 
 I have voted for an infant seat mounted above the bicycle rack. This seemed to be the most practical solution. This way the seat is also slightly spring-suspended. I presume that this is somewhat healthier than dragging children around in a trailer. I always think that children are given a good shake at each curb the trailer must cross. But since all products for children have to undergo strict quality assurance tests and carry seals of approval this is probably only my imagination.
 
-### The bike
+![The bike]({{site.baseurl}}/assets/img/bicyle.jpg)
+
+## The bike
 
 My husband and me are surely especially focused on safety for different reasons that do not need to be discussed in detail. But it is by all means dead certain that we would have the infant seat fit by a professional. Not least because we lack the required tools. As a result I took the bicycle dealer's advice concerning the subject of the supposed best bicycle parking rack. The one I have been using since the days of my early youth has failed me several times already. Unthinkable to have a child seated on the bike as well while using it.
 
@@ -29,8 +33,8 @@ dass die Beratung sehr zutreffend ist.
 
 The recommended rack was mounted to the shaft of the rear wheel corresponding to the focal point where the child is seated. I had a change to test this setup for a couple of months and have to state that I am very pleased with the recommendation.
 
-    1. child and bike are very heavy indeed
-    2. the bike has a solid stand since the rack has been attached to the ideal position
+1. child and bike are very heavy indeed
+2. the bike has a solid stand since the rack has been attached to the ideal position
 
 
 ## A bicycle with a child is not automatically a cargo-carrying bike
@@ -47,5 +51,3 @@ vollladen. So ein Kinderwagen ist dann zwar auch nahezu manövrierunfähig, aber
 niedrigeren Geschwindigkeiten unterwegs.
 
 I will have a bicycle basket mounted to my bike since it seems the only choice, although is might be unsuited for shopping. We will still have to use the stroller and use the appended basket for our purchases. A leaded stroller is hard to manouver as well, but you use it at a much lower speed.
-
-
