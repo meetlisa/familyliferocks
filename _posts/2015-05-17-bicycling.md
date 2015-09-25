@@ -7,6 +7,7 @@ published: true
 
 
 
+
 Summer is here and we are finally riding the bicycle again. Therefore I need storage space on my bike since you never know which unwieldy toy is going to
 be the beloved one for my child at the moment. In the evenings he currently huddles up to a little wooden excavator...
 
@@ -37,7 +38,7 @@ The recommended rack was mounted to the shaft of the rear wheel corresponding to
 
 We are now able to travel both safely and fast. But the question how to handle the baggage still remains. While riding a bicycle with a child seated behind you there is obviously cannot carry a backpack since it would be right in the child's face which would be rather unpleasant. You also cannot use a shoulder bag since it woul deither have to be placed on the back as well or dangle irritatingly in front of your body. At the latest when climbing a hill this would become very annoying.
 
-The idea of using saddle-bags was destroyed by the placement of the fenders of the child seat meant to protect the child's feet. There must be a clever solution, but this is left as an experiment for a desing student.
+The idea of using saddle-bags was destroyed by the placement of the fenders of the child seat meant to protect the child's feet. There must be a clever solution, but this is left as an experiment for a design student.
 
 The bicycle dealer suggested a handlebar basket but even this solution has a constraint: you are not allowed to carry more than 5 kilogramm of cargo to prevent the risk of making the vehicle unstable and unbalanced. This would be a source of danger on its own.
 
