@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd Birthday: A Band aid and a Gorilla
+title: Second birthday - a band aid and a gorilla
 categories: Parenting
 ---
 
