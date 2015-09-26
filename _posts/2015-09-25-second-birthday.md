@@ -14,7 +14,7 @@ We also had a lot of cake, candles, and food. We had luck with the good wheather
 
 Florentin got a lot of great stuff. Let me tell you about some of the best ones. Spoiler: None of them [contained a battery compartement](/parenting/2015/08/18/brass-band-music/).
 
-The biggest gift is the big **digger**. And with "big" I mean big enough to sit on it. With two levers you can dig a handful of sand or little stones. What can i say: Florentin went nuts! My sister, she was the giving person, enjoyed the exitement of the little boy. Since the packaging contained the digger in dismantled parts he could hardly wait until the digger was completely put toghether. The next few days he wanted to spent every second in the garden to dig some sand and dry grass around.
+The biggest gift is the big **digger**. And with "big" I mean big enough to sit on it. With two levers you can dig a handful of sand or little stones. What can I say: Florentin went nuts! My sister, she was the giving person, enjoyed the exitement of the little boy. Since the packaging contained the digger in dismantled parts he could hardly wait until the digger was completely put toghether. The next few days he wanted to spent every second in the garden to dig some sand and dry grass around.
 
 After a couple of days he moved the digger too close to the concrete steps at the end of the garden and they both, Florentin and the digger, fell down over the edge. Our son was quite proud of his big bump and showed the band aid to everyone we met.
 
