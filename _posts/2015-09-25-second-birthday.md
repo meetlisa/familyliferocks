@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Florentin's 2nd Birthday: A Band aid and a Gorilla
+title: 2nd Birthday: A Band aid and a Gorilla
 categories: Parenting
 ---
 
@@ -12,7 +12,7 @@ We also had a lot of cake, candles, and food. We had luck with the good wheather
 
 ## Second birthday gifts for little boys
 
-Florentin got a lot of great stuff. Let me tell you about some of the best ones. Spoiler: None of them **contain a battery compartement**.
+Florentin got a lot of great stuff. Let me tell you about some of the best ones. Spoiler: None of them [contained a battery compartement](/parenting/2015/08/18/brass-band-music/).
 
 The biggest gift is the big **digger**. And with "big" I mean big enough to sit on it. With two levers you can dig a handful of sand or little stones. What can i say: Florentin went nuts! My sister, she was the giving person, enjoyed the exitement of the little boy. Since the packaging contained the digger in dismantled parts he could hardly wait until the digger was completely put toghether. The next few days he wanted to spent every second in the garden to dig some sand and dry grass around.
 
