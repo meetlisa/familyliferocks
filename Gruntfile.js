@@ -177,6 +177,16 @@ module.exports = function (grunt) {
                         dest: '<%= config.assets %>/assets/img/',
                         ext: '.jpg'
                     }]
+            },
+            gif: {
+                options: { interlaced: true },
+                files: [{
+                        expand: true,
+                        cwd: 'assets/img/',
+                        src: ['**/*.gif'],
+                        dest: '<%= config.assets %>/assets/img/',
+                        ext: '.gif'
+                    }]
             }
         },
         svgmin: {
