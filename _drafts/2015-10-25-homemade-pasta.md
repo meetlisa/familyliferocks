@@ -24,9 +24,15 @@ Mix all the ingredients together by hand knead and work well. Let the dough rest
 
 Now you need to roll out the dough thinly. We have a hand operated pasta machine for that. But you can also use a rolling pin and some brawn. When the dough is thin enough jou can cut it in stripes or use a 'pasta bike' to make a somehow classical pasta form.
 
+Attention: Handmade Pasta cooks faster than the one you buy. Something between 5 and 7 Minutes is enough!
+
 ##Pasta family fun
 
-We told our kid that "we make pasta on saturday". So he asked us permanently when saturday is and talked about the pasta machine. You can imagine how exited he was when I finally installed the machine in the kitchen.
+We told our kid that "we make pasta on saturday". So he asked us permanently when saturday is and talked about the pasta machine. You can imagine how exited he was when I finally installed the machine in the kitchen. Astinishingly - although he is a very smart kid - he did not understand how to rotate the crank. The result was that the Process stopped now and then. But that did not detract from the fun :)
+
+
+
+
 
 
 
