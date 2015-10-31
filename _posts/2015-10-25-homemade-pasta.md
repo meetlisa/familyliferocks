@@ -41,4 +41,4 @@ Attention: Handmade Pasta cooks faster than the one you buy. Something between 5
 
 ## Pasta family fun
 
-We told our kid that "we make pasta on saturday". So he asked us permanently when saturday is and talked about the pasta machine. You can imagine how exited he was when I finally installed the machine in the kitchen. Astonishingly - although he is a very smart kid - he did not understand how to rotate the crank. The result was that the Process stopped now and then. But that did not detract from the fun :)
+We told our kid that we will make pasta on Saturday. So he asked us permanently when Saturday will arrive and talked about the pasta machine. You can imagine how exited he was when I finally installed the machine in the kitchen. Astonishingly - although he is a very smart kid - he did not understand how to rotate the crank. The result was that the process staled now and then but that could not reduce the fun :)
