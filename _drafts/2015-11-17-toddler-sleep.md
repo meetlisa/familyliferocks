@@ -3,46 +3,46 @@ published: false
 ---
 
 # Make your toddler sleep
-In the age of 6 months a kid can learn to fall asleep alsone (without breastfeeding, carrying or snuggling). This ist what we learned when our son was 18 month old when we came to the sleep advice for children.
+At the age of 6 months a child can learn to fall asleep by itself without the help of breastfeeding, being carried around or huddling together. This is what we learned amongst other things when we seeked sleep advice for children when our son was 18 month.
 
 ![toddler sleeping problems](/assets/img/sleeping_toddler.jpg)
 
-## Toddler sleeping Problems
-Not the sleep itself, but the process of falling asleep was our kids problem. He just couldn't calm down. Instead of laying around cute and cosy he was jumping, giggling and did gymnastics. Every evening one of us had to lay with him for hours to help him calm down. In the last few weeks before we asked for help, the process normally last for 2 1/2 hours!
+## Toddler sleeping problems
+Not so much sleep itself constituted a problem for our kid but the process of actually falling asleep. He just was not able to calm down. Instead of lying down comfortable, cute, and cosy he was jumping around, giggling and doing gymnastics. Every evening one of us had to lay with him for hours to help him calm down. In the last couple of  weeks prior to us asking for help this evening ritual usually took around 2 1/2 hours!
 
-We never knew, when our "parent closing time" would be and the time together as a couple was always less. As soon as the child at night for the first time was awake , one of us had to put him to bed .
+We could never be sure when we parent would be able to call it quits for the day and spending some time together as a couple became more and more impossible. As soon as the child would wake up for the first time during the night one of us had to put him to bed again.
 
-Nap was actually only place in the stroller. Well, I saw this as my sporty balance to walk Lunch 1.5 hours by him. But that was no long-term solution. Especially since I had to pay close attention to that also yes no excavators or cranes were seen on our way , for he would immediately have been wide awake again: "craaaaane"
+The only place for an afternoon nap seemed to be the stroller. I took it as my daily workout to go for a walk after lunch for about 1.5 hours. But that did hardly seem like a long-term solution. Especially since I had to be careful not to cross tracks with an excavator or crane on our way, since this would make him wide awake again in an instant: "craaaaane"
 
-## The aid in sleep advice
-I must say, in Augsburg, the network of support for families is very closely. The reason is that we had a fantastic time for a long time social speakers , but also that all the churches are very active in Augsburg (we are the city of the religious Peace - Augsburg Confession). I myself ended up with our toddler sleeping problems in a family center and SOS Children's Villages got there a free consultation appointment.
+## Sleep advice for the rescue
+I must admit that the social network and support for families in Augsburg is very advanced. This is mostly due to the fact that the city had an excellent head of the social devision not that long ago. Also the churches play an integral part because of the historic importance of the Religious Peace of Augsburg. Me and the toddler arranged a free appointment for family counseling at a nearby SOS Children's Village and community center without a problem.
 
-The conversation with the child psychologist and family therapist was very tiring. I was there alone and had to tell exactly how my own childhood was like the birth of my son has gone and how family life works for us like that. These are violent themes, if they should be compressed argued before a stranger.
+The conversation with the child psychologist and family therapist was very tiring. Since I was there by myself and had to recall exact details about my own childhood, the process of giving  birth to my son, and how we organize our family life. These are bold themes to recollect and express in front of a stranger.
 
-The diagnosis of the therapist was: Our child has taken control . It determines exactly who, when to stand next to his bed and how long . This is exhausting for the child (because it actually wants his child and hopes that parents provide direction ) and for the parents exhausting (because it is unpleasant to lose control).
+The diagnosis of the therapist: our child is in charge of the situation and decides who has to stand next to its bed, when and how long. This is an exhausting position to be in for the child, because it actually wants to behave like a child and longs for direction form its parents. The situation is also tiring for the parents because it is never pleasant to lose control over a situation.
 
-So it should be the goal , back to back and clarify who is in this situation ( bed , falling asleep ) of the boss's family relationships straight.
+Therefore the goal had to be resetting the family relationships and clarifying who is in charge of the situation.
 
-## The path to better family sleep
-We started with the familiarization of the evening, when the Oscars were televised. The child had just become healthy again and correspondingly fit and I thought to myself, if the Einschlafdrama now drags on for hours, I can in between See me at least a couple of nice clothes.
+## The path to a better family sleep
+We started with the readjustments of the evening rituals when the Oscars were televised. The child had just recovered form a sickness and seemed fit and healthy again. I figured when drama of falling asleep should drags on for hours again I would at least be able to to watch a couple of exceptional dresses.
 
-So I took the usual bedtime , but was careful to assume a prone position next to my son in any way. He should not get the idea that I do it comfortably to me :
-1. Brushing and undressing in bathroom
-2. Pajamas put in the nursery
-3. Close the blinds together, open window for ventilation
-4. Lying down , cuddly wrap and tell something of the day
-5. Make windows , put next to it and still sing something or humming
-6. Goodnight kiss to go out
+With this in mind I started the usual bedtime procedure, but was careful not to assume a reclined and sunken position next to my son. He should not get the idea that this was comfortable for me :
+1. Brush and undress in the bathroom
+2. Put on Pajamas in the nursery
+3. Close the blinds together and open window for ventilation
+4. Lay down to sleep, wrap in and tell some recollections of the day
+5. Close windows again, sit down next to the kid singing or humming
+6. Goodnight kiss and leave the room
 
-Said and done. As our child was not in the crib at that time, he can just walk around. So he's got up after a brief surprise and has been looking for me. I laid him back and walked out. This game lasted 50 minutes. Then all was quiet. The Oscars had not even begun.
+Said and done according to the plans. As our child was not sleeping in a crib at the time, he was able to walk around when he desired. Therefore he got up after a brief surprise and went looking for me. I put him back to bed and walked out of his room again. We repeated this little game for 50 minutes. Then all of a sudden all was quiet and still while the Oscars broadcast had not even started yet.
 
-On the second day I had success after 10 minutes, the third after 5. One can imagine how we were amazed !
+On the second day I had success after a period of 10 minutes. The third night our game ended after 5 minuted. One could only start shaking one's head in amazement!
 
-It is important to me that my tactics will not be applied here as a model for other children, because there are so many details that you have to pay attention for. In the worst case, the child will suffer in the transition under any circumstances or be traumatized. Should you have a similar problem, then you look it out in your city for a consultancy to. There are therapists who you have to pay yourself, but also many offers of the city or of free and church organizations. This should take necessarily complete.
+I think it is important to mention that I do not believe that the tactics applied will work as a blueprint procedure for other children, since there are so many small details you have to watch out for. The child should not suffer during the transition period since it might get traumatized in the worst of all imaginable cases. Should you have a similar problem, then look for the offerings in your city for consultancy. There are therapists you have to pay yourself, but also many community backed or free of charge alternatives. You should certainly consider these possibilities.
 
-For a long time our life as a family has since greatly improved. Florentin knew as he can fall asleep alone, but gets the well at night quite well out. At first There are about a week 1 or 2 nights, in which he was completely asleep (or does not cry). But then most of the nights were very relaxing for me and Christoph.
+For a long stretch our family life had greatly improved. Florentin knew how he could manage to fall asleep all by himself. At first he had about one or two nights a week where he slept the whole night (without crying or whining). But soon most if not all nights started to get very relaxing for me and Christoph.
 
 ## Back to the start
-But then the second Birthday came. Hindsight it feels that all the problems started again on the exact day when our son turned two. All of a sudden we were confronted with dramatic temper tantrum with a lot of crying and screaming and lashing around. Also the sleeping drama started again. The difference: Now he´s 24 months old, he knows how to undress. So when we left the room he started to turn off his pajama and diaper and peed on his pillow. The mountains of laundry grew to record highs... So the sleeping process became stressful again. We sat very calmly next to his door, listening about every little sound and rush in, as soon as we hear the plopping of the pajama buttons.
+But then his second Birthday came around and it seemed that all the problems started again on the exact day our son turned two. All of a sudden we were confronted with dramatic temper tantrum coming with a lot of crying and screaming and lashing around. The sleeping drama started again as well. But the difference this time around was: he now knew how to undress. As soon as we would leave the room he would start to put off his pajama and diaper and eventually even pee on his pillow. The mountains of laundry grew to record highs around that time and the process of falling asleep became a stressful one again. We sat calmly next to the door of his room and listened closely for every little sound coming from the inside to immediately rush in as soon as we would hear the plopping of the pajama buttons.
 
-Again, we sat there for hours. Especially the naps became horrible, because he finally fell asleep when the other kids wake up which means that all of a sudden all our playdates were cancelled.
+Again, we had to sit for hours on end. The afternoon naps became especially horrible, because when he would finally fall asleep all the other kids would be ready to get up again. All of a sudden all our playdates had to be cancelled.
