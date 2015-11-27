@@ -12,7 +12,7 @@ At the age of 6 months a child can learn to fall asleep by itself without the he
 ## Toddler sleeping problems
 Not so much sleep itself constituted a problem for our kid but the process of actually falling asleep. He just was not able to calm down. Instead of lying down comfortable, cute, and cosy he was jumping around, giggling and doing gymnastics. Every evening one of us had to lay with him for hours to help him calm down. In the last couple of  weeks prior to us asking for help this evening ritual usually took around 2 1/2 hours!
 
-We could never be sure when we parent would be able to call it quits for the day and spending some time together as a couple became more and more impossible. As soon as the child would wake up for the first time during the night one of us had to put him to bed again.
+We could never be sure when we parents would be able to call it quits for the day and spending some time together as a couple became more and more impossible. As soon as the child would wake up for the first time during the night one of us had to put him to bed again.
 
 The only place for an afternoon nap seemed to be the stroller. I took it as my daily workout to go for a walk after lunch for about 1.5 hours. But that did hardly seem like a long-term solution. Especially since I had to be careful not to cross tracks with an excavator or crane on our way, since this would make him wide awake again in an instant: "craaaaane"
 
@@ -29,6 +29,7 @@ Therefore the goal had to be resetting the family relationships and clarifying w
 We started with the readjustments of the evening rituals when the Oscars were televised. The child had just recovered form a sickness and seemed fit and healthy again. I figured when drama of falling asleep should drags on for hours again I would at least be able to to watch a couple of exceptional dresses.
 
 With this in mind I started the usual bedtime procedure, but was careful not to assume a reclined and sunken position next to my son. He should not get the idea that this was comfortable for me :
+
 1. Brush and undress in the bathroom
 2. Put on Pajamas in the nursery
 3. Close the blinds together and open window for ventilation
