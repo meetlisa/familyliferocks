@@ -1,8 +1,10 @@
 ---
-published: false
+layout: post
+title: Make your toddler sleep
+categories: Parenting
+published: true
 ---
 
-# Make your toddler sleep
 At the age of 6 months a child can learn to fall asleep by itself without the help of breastfeeding, being carried around or huddling together. This is what we learned amongst other things when we seeked sleep advice for children when our son was 18 month.
 
 ![toddler sleeping problems](/assets/img/sleeping_toddler.jpg)
@@ -46,3 +48,5 @@ For a long stretch our family life had greatly improved. Florentin knew how he c
 But then his second Birthday came around and it seemed that all the problems started again on the exact day our son turned two. All of a sudden we were confronted with dramatic temper tantrum coming with a lot of crying and screaming and lashing around. The sleeping drama started again as well. But the difference this time around was: he now knew how to undress. As soon as we would leave the room he would start to put off his pajama and diaper and eventually even pee on his pillow. The mountains of laundry grew to record highs around that time and the process of falling asleep became a stressful one again. We sat calmly next to the door of his room and listened closely for every little sound coming from the inside to immediately rush in as soon as we would hear the plopping of the pajama buttons.
 
 Again, we had to sit for hours on end. The afternoon naps became especially horrible, because when he would finally fall asleep all the other kids would be ready to get up again. All of a sudden all our playdates had to be cancelled.
+
+But with every phase also this particular period ended when our son all of a sudden would fall asleep almost without any hue and cry. Still we experience pleasant and not so pleasant surprises when it is sleeping time. Just today Florentin called for us. As we went looking for him he stood naked inside the door to his room proclaiming that he has peed and therefore needed to remove his diaper and sleeping gown. We can hardly wait for tomorrow's episode of "bedtime for our boy".
