@@ -50,6 +50,6 @@ But then his second Birthday came around and it seemed that all the problems sta
 
 Again, we had to sit for hours on end. The afternoon naps became especially horrible, because when he would finally fall asleep all the other kids would be ready to get up again. All of a sudden all our playdates had to be cancelled.
 
-But with every phase also this particular period ended when our son all of a sudden would fall asleep almost without any hue and cry. Still we experience pleasant and not so pleasant surprises when it is sleeping time. Just today Florentin called for us. As we went looking for him he stood naked inside the door to his room proclaiming that he had to pee and therefore needed to remove his wet diaper and also his sleeping gown.
+But with every phase also this particular period ended when our son all of a sudden would fall asleep almost without any hue and cry. Still we experience pleasant and not so pleasant surprises when it is sleeping time. Just today Florentin called for us when we assumed he was already fast asleep. As we went looking for him he stood naked inside the door to his room proclaiming that he had to pee and therefore needed to remove his wet diaper and also his sleeping gown.
 
 As you can imagine we can hardly wait for tomorrow's episode of "bedtime for our boy".
