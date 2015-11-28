@@ -15,6 +15,8 @@ These are themes that concern every parent on the globe but we intent to take a 
 
 We will see what else comes to our minds. We enjoy blogging about parenting and family issues. The writing will by the way mostly be Lisa's duty while Christoph will take care of the programming and translations.
 
+For german readers please visit [HausHofKind](http://www.haushofkind.de/)
+
 We are happy to have you with us on a short stretch of the way.
 
 All the best from Bavaria, Germany
