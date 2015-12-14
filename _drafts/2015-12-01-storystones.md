@@ -5,30 +5,33 @@ categories: 'Parenting, DIY'
 published: false
 ---
 
-Sometimes I am a very crafty mom. One of my latest projects are the story stones.
+I am a very able and workmanlike mom sometimes. One of my latest projects are the so-called story stones.
 
-The idea is not my own. I found it in one of the german parenting blogs I follow. This gift idea for toddlers seemed perfect to me. Florentin is collecting stones wherever we go. So his interest in this material is an everyday topic in our family.
+The idea is not my own invention tough, I found the inspiration in one of the German parenting blogs I follow. This gift idea for toddlers seemed perfect to me since Florentin is already collecting stones wherever we go. So his interest in the actual material is also already an everyday topic in our family.
 
-# Painting stones
-At first you have to collect some flat stones. I liked that part of the process, because i had to wait anyway while Florentin is picking his own favorite stones on every corner. So why not spent the time well spent? I picked stones in the size of a walnut. But you should choose the size your kid can handle well.
+## Painting stones
 
-Then i bought a set of acrylic paint because this color lasts best on stones. They sell acrylic colors in different quality. My experience: For the stones the cheapest quality is absolutely fine.
+First of all you have to collect some rather flat stones. I enjoyed that part of the process, because I had to wait anyway while Florentin was making his own choices on which stones to  pick as his favorites aT every corner. So why not make the most of the time while we are at it anyway? I mostly picked stones in the size of a walnut, but you should simply choose the size your kid can handle well with small hands.
 
-The next step is to wash the stones. Be careful, when you have a sink made of porcellain.
+I then bought a set of acrylic paint because it is long lasting on stones. They sell acrylic colors in different quality and from my experience the lowest quality is absolutely fine for stones.
 
-When the stones are dry you can start the painting. I choose the following pictures and symbols:
+The next step is to rinse and wash the stones with a certain care, especially when you do so in porcelain sink.
+
+When the stones have dried you can start with the painting. I choose the following pictures and symbols:
+
 - numbers from one to nine
-- sowflake and snowman
+- snowflake and snowman
 - boy and girl
-- flower and Tree
+- flower and tree
 - house
 - raindrop and cloud
 - rabbit and bird
 - and some more
 
-when I was done I sparayed the stones with fixative to make them last longer. Be careful with the smell - better do it outside.
+When I was done with the painting I sprayed the stones with fixative to make the colors stay longer. Be careful with the spray and better use it outdoors or with the windows wide open.
 
-# Story Stones as a gift
-Florentin got his stones at his second birthday. Also his friend Helena got a handful. They were born in the same month. At first the were not very interested. Of course I was sad about that because of all the work. A few days later I cought Florentin throwing his stones around so i put them away. A few weeks later he asked for them and played very careful with the stones. Since then he puts them in and out of the little sack and puts them in lines.
+## Story Stones as a gift
 
-I feel that the motives don't really matter - as long as they are colorful.
+Florentin got his stones for his second birthday. Also his friend Helena was presented with a handful. The two of them were born in the same month. At first the were not very interested. Of course I was sad about the disinterest because of all the work that went into producing them. A few days later I caught Florentin throwing his stones around so I put them away. A few weeks later he asked for them and played very careful with the stones. Since then he puts them in and out of the little sack and puts them in lines. They are also loaded very carefully on little trucks with the help of his toy construction machinery.
+
+I have a feeling that the motives do not matter much as long as they are colorful and delightful to look at.
