@@ -2,7 +2,7 @@
 layout: post
 title: Story Stones
 categories: Parenting, DIY
-published: false
+published: true
 ---
 
 I am a very able and workmanlike mum sometimes. One of my latest projects are the so-called story stones.
