@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Story Stones
-categories: 'Parenting, DIY'
+categories: Parenting, DIY
 published: false
 ---
 
-I am a very able and workmanlike mom sometimes. One of my latest projects are the so-called story stones.
+I am a very able and workmanlike mum sometimes. One of my latest projects are the so-called story stones.
 
 The idea is not my own invention tough, I found the inspiration in one of the German parenting blogs I follow. This gift idea for toddlers seemed perfect to me since Florentin is already collecting stones wherever we go. So his interest in the actual material is also already an everyday topic in our family.
 
@@ -28,10 +28,16 @@ When the stones have dried you can start with the painting. I choose the followi
 - rabbit and bird
 - and some more
 
+![Paint me another train](/assets/img/stones-02.jpg)
+
 When I was done with the painting I sprayed the stones with fixative to make the colors stay longer. Be careful with the spray and better use it outdoors or with the windows wide open.
+
+![Paint me another train](/assets/img/stones-03.jpg)
 
 ## Story Stones as a gift
 
 Florentin got his stones for his second birthday. Also his friend Helena was presented with a handful. The two of them were born in the same month. At first the were not very interested. Of course I was sad about the disinterest because of all the work that went into producing them. A few days later I caught Florentin throwing his stones around so I put them away. A few weeks later he asked for them and played very careful with the stones. Since then he puts them in and out of the little sack and puts them in lines. They are also loaded very carefully on little trucks with the help of his toy construction machinery.
+
+![Paint me another train](/assets/img/stones-01.jpg)
 
 I have a feeling that the motives do not matter much as long as they are colorful and delightful to look at.
