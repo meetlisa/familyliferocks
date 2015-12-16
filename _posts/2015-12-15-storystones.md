@@ -7,11 +7,13 @@ published: true
 
 I am a very able and workmanlike mum sometimes. One of my latest projects are the so-called story stones.
 
+![Paint me another train](/assets/img/stones-02.jpg)
+
 The idea is not my own invention tough, I found the inspiration in one of the German parenting blogs I follow. This gift idea for toddlers seemed perfect to me since Florentin is already collecting stones wherever we go. So his interest in the actual material is also already an everyday topic in our family.
 
 ## Painting stones
 
-First of all you have to collect some rather flat stones. I enjoyed that part of the process, because I had to wait anyway while Florentin was making his own choices on which stones to  pick as his favorites aT every corner. So why not make the most of the time while we are at it anyway? I mostly picked stones in the size of a walnut, but you should simply choose the size your kid can handle well with small hands.
+First of all you have to collect some rather flat stones. I enjoyed that part of the process, because I had to wait anyway while Florentin was making his own choices on which stones to  pick as his favorites at every corner. So why not make the most of the time while we are at it anyway? I mostly picked stones in the size of a walnut, but you should simply choose the size your kid can handle well with small hands.
 
 I then bought a set of acrylic paint because it is long lasting on stones. They sell acrylic colors in different quality and from my experience the lowest quality is absolutely fine for stones.
 
@@ -28,11 +30,9 @@ When the stones have dried you can start with the painting. I choose the followi
 - rabbit and bird
 - and some more
 
-![Paint me another train](/assets/img/stones-02.jpg)
+![Paint me another train](/assets/img/stones-03.jpg)
 
 When I was done with the painting I sprayed the stones with fixative to make the colors stay longer. Be careful with the spray and better use it outdoors or with the windows wide open.
-
-![Paint me another train](/assets/img/stones-03.jpg)
 
 ## Story Stones as a gift
 
