@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Children pictures in the internet
+title: Reasons for not publishing your children's pictures on the internet
 categories: Parenting
 published: false
 ---
@@ -19,6 +19,8 @@ If we would make pictures of our son publicly available on the internet than eve
 We want to share some details and stories of our lives but mostly focus on our experiences and not so much on our faces. If you do find our stories boring just move on. Those still here: happy reading.
 
 We sure try to spice up our postings with pictures since reading would indeed be a bit boring. We try to think about what pictures we use. We are convinced that our articles still serve their duty without us posting the face of our son.
+
+![The kid](/public/assets/img/children-pictures-01.jpg)
 
 ## A great debate in Germany
 
@@ -44,4 +46,4 @@ But we can think of another valid reason not to show the face of our son on the 
 
 Paraphrasing the argument: we take special care that he does not cut his eyes out by accident with a fork and spoil his spotless career as a pilot as well.
 
-Bild: Untergrundkämpfer
+![The kid as a resistance fighter](/public/assets/img/children-pictures-02.jpg)
