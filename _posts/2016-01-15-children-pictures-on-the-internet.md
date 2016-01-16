@@ -2,7 +2,6 @@
 layout: post
 title: Reasons for not publishing your children's pictures on the internet
 categories: Parenting
-published: false
 ---
 
 This blog is still young and only contains a few articles. But you might already have noticed that we do not post any pictures of our child. This is not a coincident but a well considered move. We actively decided to not publish any fotos of our son.
