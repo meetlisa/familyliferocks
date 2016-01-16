@@ -39,7 +39,7 @@ We admit that the mother blogging about her daily routines with a disabled child
 
 ## The career of our offspring
 
-We have ssen it all: crying children, sick children, mothers describing the consistency of their offsprings morning shit. The internet never forgets - 15, 20, 42 years from now it will still be possible to find these contents. Awkward scenes on weddings, meetings, or during political campaigns are inevitable.
+We have seen it all: crying children, sick children, mothers describing the consistency of their offsprings morning shit. The internet never forgets - 15, 20, 42 years from now it will still be possible to find these contents. Awkward scenes on weddings, meetings, or during political campaigns are inevitable.
 
 But we can think of another valid reason not to show the face of our son on the internet: face detection. As soon as a service like Facebook or Google has your photos they are able to recognize you everywhere. This might sound a little strange or even farfetched but these are the facts: we would like to enable Florentin to shape his future the way he prefers. Therefore he should be able to decide for himself should he ever consider a career as resistance fighter and strive for independence if he pleases without his face already stored in every database.
 
