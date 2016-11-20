@@ -28,6 +28,10 @@ port:             9001
 current_version:  1.0.0
 repo:             https://github.com/ade25/
 
+gems: [jekyll-paginate]
+
+future: true
+
 # prose.io editing setup
 prose:
   siteurl: 'http://meetlisa.github.io'
