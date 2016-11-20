@@ -25,18 +25,11 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories">
-        Parenting
-    </a>
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#diy-ref">
-        DIY
-    </a>
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#traditions-ref">
-        Traditions
-    </a>
-    <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#family-policy-ref">
-        Family policy
-    </a>
+    {% for category in site.categories %}
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories#{{ category | first | slugify }}-ref">
+        {{ category | first }}
+      </a>
+    {% endfor %}
 
     <span class="sidebar-nav-item">Currently v{{ site.current_version }}</span>
   </nav>

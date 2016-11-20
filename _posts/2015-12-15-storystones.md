@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Story Stones
-categories: Parenting, DIY
+categories: [Parenting, DIY]
 published: true
 ---
 

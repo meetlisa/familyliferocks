@@ -7,56 +7,18 @@ group: navigation
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-  {{ site.categories }}
-  {% for post in site.categories[DIY] %}
-    {{ post.title }}
+  {% for category in site.categories %}
+  <div class="page-section" id="{{ category | first | slugify }}-ref">
+    <h2 class="page-section-headline page-section-headline-{{ category | first }}">{{ category | first }}</h2>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        {% if post.url %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </div>
   {% endfor %}
-  <div class="page-section" id ="parenting-ref">
-    <h2>Parenting</h2>
-    <ul>
-    {% for post in site.categories[Parenting] %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="page-section" id ="diy-ref">
-    <h2>DIY</h2>
-    <ul>
-    {% for post in site.categories.diy %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="page-section" id ="traditions-ref">
-    <h2>Traditions</h2>
-    <ul>
-    {% for post in site.categories.traditions %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
-  <div class="page-section" id ="family-policy-ref">
-    <h2>Family Policy</h2>
-    <ul>
-    {% for post in site.categories.family-policy %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
 </div>

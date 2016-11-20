@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pasta Recipe - kitchen fun for toddlers
-categories: Parenting, DIY
+categories: [Parenting, DIY]
 published: true
 ---
 
