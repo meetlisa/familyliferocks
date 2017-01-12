@@ -4,7 +4,7 @@ title: Call your midwife!
 categories: [Healthcare]
 ---
 
-*Guest post on pregnancy and delivery and the role the midwifes play in germany by Dr. Katja Heumader. Katja is a close friend of Lisa. Her kids are the same age as ours and we spend at least one afternoon per week with each other. The late at night WhatsApp Messages about the hard/stupid/crazy moments of parenting saved each other more than once.*
+*Guest post on pregnancy and delivery and the role the midwives play in Germany by Dr. Katja Heumader. Katja is a close friend of Lisa. Her kids are the same age as ours and we spend at least one afternoon per week. The late night WhatsApp messages about the hard/stupid/crazy moments of parenting have saved the day more than once.*
 
 My Brazilian friend got pregnant in 2013. The first question she asked was: "I don't understand this whole midwife-thing you have in Germany. What do I need a midwife for? And how do I find the right one?" In Brazil, children are born under doctoral supervision in hospital, many of them via c-section (in cities up to 90 per cent). For comparison: In Germany the share of c-sections is about 30 per cent. Of course, the absence of midwives is one of the reasons for the high share of c-sections in Brazil.
 
