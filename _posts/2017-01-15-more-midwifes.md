@@ -2,7 +2,6 @@
 layout: post
 title: More Midwifes!
 categories: [pastime]
-published: false
 ---
 
 The last post was on midwives in Germany. The midwives in London during the 1950s are available via the original Netflix series "call the midwifes".
