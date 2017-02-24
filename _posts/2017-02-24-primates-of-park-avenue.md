@@ -6,7 +6,7 @@ categories: [Parenting]
 
 Wednesday Martin describes how she scientifically studied, sort of through participant observation, the lives of women living on the Upper Easy-Side of New York: the mothers of Part Avenue. An account that to me as both a mother and academically trained sociologist was more enthralling than any crime novel. She actively uses academic terminology like "population" and "species" and draws humorous and precise comparisons to indigenous tribes and numerous ape colonies to explain and exemplify human behavior.
 
-![Primates of park avenue](/assets/img/primatesoftheparkavenue.jpg)
+![Primates of park avenue](/public/assets/img/primatesoftheparkavenue.jpg)
 
 It is through this relationship between primates and the housewives of Park Avenue in terms of breeding and foster of their offspring and the description of the hierarchies and the importance of beauty from the biological perspective that the "Primates of Park Avenue" becomes such an enjoyable popular scientific book that has you smirking and rolling your eyes with every page turn.
 
