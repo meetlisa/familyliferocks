@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Primates of Park Avenue
-categories: Parenting
+categories: [Parenting]
 ---
 
 Wednesday Martin describes how she scientifically studied, sort of through participant observation, the lives of women living on the Upper Easy-Side of New York: the mothers of Part Avenue. An account that to me as both a mother and academically trained sociologist was more enthralling than any crime novel. She actively uses academic terminology like "population" and "species" and draws humorous and precise comparisons to indigenous tribes and numerous ape colonies to explain and exemplify human behavior.
+
+![Primates of park avenue](/assets/img/primatesoftheparkavenue.jpg)
+<small>Lisa with a German copy of the book</small>
 
 It is through this relationship between primates and the housewives of Park Avenue in terms of breeding and foster of their offspring and the description of the hierarchies and the importance of beauty from the biological perspective that the "Primates of Park Avenue" becomes such an enjoyable popular scientific book that has you smirking and rolling your eyes with every page turn.
 
@@ -25,8 +28,5 @@ Take for example the critique of capitalism carried by her observations on the s
 The feminist in me of course cares most about the role allocation on park avenue. Wednesday Martin observes: the women are totally dependent on their husbands - not only money wise but socially since their husbands career governs the weal and woe of the family while her career consists of raising the children. Divorce is a kind of social stigmatization that these women are unfit to survive since their whole existence is targeted on playing by the rules of hierarchy. Therefore divorce is not even an option. Period. You can imagine how this affects the quality of a marriage.
 
 I can most warmly recommend the book and anticipate the codes you will detect amongst the parents of your population.
-
-
-<iframe src="//giphy.com/embed/l3vRjVqDBoS2PvMw8" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>[via GIPHY](http://giphy.com/gifs/snl-saturday-night-live-2000s-l3vRjVqDBoS2PvMw8)</p>
 
 PS: Content Note: the book contains description of miscarriage
